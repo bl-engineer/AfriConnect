@@ -9,7 +9,7 @@ export default function Profile() {
     <>
       <Topbar />
       <div className="profile">
-        <Sidebar />
+        <Sidebar/>
         <div className="profileRight">
           <div className="profileRightTop">
             <div className="profileCover">
@@ -20,17 +20,17 @@ export default function Profile() {
               />
               <img
                 className="profileUserImg"
-                src="assets/person/7.jpeg"
+                src="assets/person/8.jpeg"
                 alt=""
               />
             </div>
             <div className="profileInfo">
-                <h4 className="profileInfoName">Safak Kocaoglu</h4>
-                <span className="profileInfoDesc">Hello my friends!</span>
+                <h4 className="profileInfoName">Bocar Ly</h4>
+                <span className="profileInfoDesc">Hello the world from Africa</span>
             </div>
           </div>
           <div className="profileRightBottom">
-            <Feed />
+            <Feed/>
             <Rightbar profile/>
           </div>
         </div>

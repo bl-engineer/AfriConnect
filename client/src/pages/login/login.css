@@ -29,7 +29,7 @@
 }
 
 .loginDesc {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 .loginBox{
@@ -43,8 +43,8 @@
 }
 
 .loginInput{
-    height: 50px;
-    border-radius: 10px;
+    height: 40px;
+    border-radius: 5px;
     border: 1px solid gray;
     font-size: 18px;
     padding-left: 20px;
@@ -54,15 +54,18 @@
     outline: none;
 }
 
+
 .loginButton{
-    height: 50px;
-    border-radius: 10px;
+    height: 40px;
+    border-radius: 5px;
     border: none;
-    background-color: #1775ee;
-    color: white;
+    background-color: #1bbc9b;
+    color:   #030303 !important;
     font-size: 20px;
     font-weight: 500;
     cursor: pointer;
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.15;
 }
 
 .loginForgot{
@@ -71,14 +74,16 @@
 }
 
 .loginRegisterButton{
-    width: 60%;
+    width: 50%;
     align-self: center;
-    height: 50px;
-    border-radius: 10px;
+    height: 40px;
+    border-radius: 5px;
     border: none;
-    background-color: #42b72a;
-    color: white;
+    background-color: #1bbc9b;
+    color:  #030303 !important;
     font-size: 20px;
     font-weight: 500;
     cursor: pointer;
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.15;
 }

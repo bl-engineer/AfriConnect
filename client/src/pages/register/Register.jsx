@@ -5,9 +5,9 @@ export default function Register() {
     <div className="login">
       <div className="loginWrapper">
         <div className="loginLeft">
-          <h3 className="loginLogo">Lamasocial</h3>
+          <h3 className="loginLogo">AfriConnect</h3>
           <span className="loginDesc">
-            Connect with friends and the world around you on Lamasocial.
+            Connect the african youth and the world around you on AfriConnect.
           </span>
         </div>
         <div className="loginRight">
@@ -18,7 +18,7 @@ export default function Register() {
             <input placeholder="Password Again" className="loginInput" />
             <button className="loginButton">Sign Up</button>
             <button className="loginRegisterButton">
-              Log into Account
+              Log in
             </button>
           </div>
         </div>

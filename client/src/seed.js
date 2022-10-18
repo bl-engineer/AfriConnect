@@ -125,7 +125,7 @@ export const Posts = [
     photo: "post/9.jpeg",
     date: "5 days ago",
     userId: 9,
-    like: 11,
+    like: 1,
     comment: 2,
   },
   {
@@ -133,7 +133,7 @@ export const Posts = [
     photo: "post/10.jpeg",
     date: "1 week ago",
     userId: 10,
-    like: 104,
-    comment: 12,
+    like: 100,
+    comment: 10,
   },
 ];

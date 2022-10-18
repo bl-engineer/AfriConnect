@@ -1,5 +1,5 @@
 import "./rightbar.css";
-import { Users } from "../../dummyData";
+import { Users } from "../../seed";
 import Online from "../online/Online";
 import { useContext, useEffect, useState } from "react";
 import axios from "axios";

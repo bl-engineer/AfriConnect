@@ -19,11 +19,7 @@
   font-weight: bold;
   color: white;
   cursor: pointer;
-  /* color: #1a1a1a !important; */
   font-family: 'Quicksand', sans-serif;
-  /* border: 2px solid white; */
-  /* padding: 10px; */
-  /* border: 1px solid; */
   padding: 5px;
   box-shadow: 5px 10px red;
 }
@@ -39,6 +35,7 @@
   border-radius: 10px;
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 
 .searchIcon {
@@ -96,8 +93,8 @@
 }
 
 .topbarImg {
-  width: 32px;
-  height: 32px;
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
   object-fit: cover;
   cursor: pointer;

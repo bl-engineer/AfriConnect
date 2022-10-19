@@ -13,7 +13,7 @@ export default function Register() {
   const handleClick = async (e) => {
     e.preventDefault();
     if (passwordAgain.current.value !== password.current.value) {
-      passwordAgain.current.setCustomValidity("Passwords do not match!");
+      passwordAgain.current.setCustomValidity("Passwords don't match!");
     } else {
       const user = {
         username: username.current.value,
@@ -71,7 +71,7 @@ export default function Register() {
             <button className="loginButton" type="submit">
               Sign Up
             </button>
-            <button className="loginRegisterButton">Log in</button>
+            <button className="loginRegisterButton">Log into Account</button>
           </form>
         </div>
       </div>

@@ -42,4 +42,6 @@ Project 3: Social Network MERN stack App
 
 [Github_URL](https://github.com/bl-engineer/AfriConnect/)
 
-[Heroku_Backend Deployment_URL](https://afri-connect.herokuapp.com//)
+[Heroku_Backend_URL](https://afri-connect.herokuapp.com/)
+
+[Portfolio_URL](https://bl-engineer.github.io/portfolio1/)
